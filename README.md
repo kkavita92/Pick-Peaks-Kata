@@ -1,5 +1,5 @@
 # Pick-Peaks-Kata
-### The 'Pick Peaks' kata with apologies to CodeWars: ###
+### The 'Pick Peaks' kata with apologies to Sensei @frenetic_be & CodeWars: ###
 
 In this kata, you will write a func that returns the positions and the values of the "peaks" (or local maxima) of a numeric array.
 
